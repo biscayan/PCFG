@@ -1,5 +1,5 @@
 # Probabilistic Context-Free Grammar (PCFG)
-확률에 기반한 문장의 생성규칙 추출 및 빈도수 분석
+확률에 기반한 영어 문장의 생성규칙 추출 및 빈도수 분석
 
 </br>
 
